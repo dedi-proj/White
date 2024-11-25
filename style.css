@@ -342,71 +342,38 @@ body {font-family: "Roboto", "Arial", sans-serif;
 }
 
 .results h4{
-  font-weight: 700;
-  font-size: 14px;
-  margin-bottom: 8px;
-  padding: 10px 10px 5px;
-  border-bottom: 1px solid #eee;
-}
-.results .date1{
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
-  line-height: 1.42857143;
-  font-size: 14px;
-  font-weight: 400;
-  -webkit-font-smoothing: antialiased;
-  color: #ffffff;
   box-sizing: border-box;
   margin: 0;
-  font-family: Muli !important;
-}
-.group1{
-  -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
-  line-height: 1.42857143;
-  font-size: 14px;
-  font-weight: 400;
+  line-height: 1.1;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
-  font-family: Muli !important;
-  color: #ffffff;
-  box-sizing: border-box;
-  display: inline-block;
-  vertical-align: middle;
-  margin-top: 0 !important;
-  margin: 30px 0 13px;
-  position: relative;
-  width: 100%;
-}
-/* .prev,.next{
-  -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-  margin: 0;
-  background: 0 0;
-  color: #e4302f;
-  text-decoration: none;
-  font-family: Muli !important;
-  display: inline-block;
-  margin-bottom: 0;
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 1.42857143;
   text-align: center;
-  white-space: nowrap;
-  vertical-align: middle;
-  cursor: pointer;
-  user-select: none;
-  background-image: none;
-  float: left;
-  background-color: #5a0b0b;
-  position: absolute;
-  top: 0;
-  border: 0;
-  border-radius: 50% !important;
-  padding: 2px 6px;
-  right: 28px;
-} */
+  font-weight: 1000;
+  font-family: Muli !important;
+  color: #ffffff;
+}
+#date1{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  line-height: 1.42857143;
+  font-size: 14px;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  color: #ffffff;
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Muli !important;
+  display: inline-block;
+  margin-right: 70px;
+  margin-bottom: 5px;
+}
+
+
+
 /* .results-pool{
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0,0,0,0);

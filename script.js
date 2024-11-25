@@ -90,7 +90,13 @@ function showSlides(n) {
 
 let slideIndex1 = 0;
 showSlides1();
+function plusSlides(n) {
+  showSlides1(slideIndex1 += n);
+}
 
+function currentSlide(n) {
+  showSlides1(slideIndex1 = n);
+}
 function showSlides1() {
   let i;
   let slides = document.getElementsByClassName("result-container");  
