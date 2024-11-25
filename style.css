@@ -374,7 +374,7 @@ body {font-family: "Roboto", "Arial", sans-serif;
 
 
 
-/* .results-pool{
+.results-pool{
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   line-height: 1.42857143;
@@ -386,7 +386,7 @@ body {font-family: "Roboto", "Arial", sans-serif;
   float: left !important;
   color: #ffffff;
   font-size: 13px;
-} */
+}
 .results-detail{
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
@@ -418,8 +418,9 @@ body {font-family: "Roboto", "Arial", sans-serif;
   color: #ffae00;
   box-sizing: border-box;
   margin: 0;
-  display: inline-block;
+  /* display: inline-block; */
   margin-left: 3px;
+  float: right;
 }
 /* div.content {
   margin-left: 200px;
